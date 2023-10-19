@@ -42,22 +42,16 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 ### Code Splitting
 
 
-
 ### Analyzing the Bundle Size
-
 
 
 ### Making a Progressive Web App
 
 
-
 ### Advanced Configuration
-
 
 ### Deployment
 
-
-
 ### `npm run build` fails to minify
 
-T
+
