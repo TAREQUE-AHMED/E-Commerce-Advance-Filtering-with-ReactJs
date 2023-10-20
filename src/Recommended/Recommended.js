@@ -17,5 +17,4 @@ const Recommended = ({ handleClick }) => {
     </>
   );
 };
-
 export default Recommended;
