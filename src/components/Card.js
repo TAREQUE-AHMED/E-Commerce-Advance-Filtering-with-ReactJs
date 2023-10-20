@@ -25,5 +25,7 @@ const Card = ({ img, title, star, reviews, prevPrice, newPrice }) => {
       </section>
     </>
   );
+  
 };
+
 export default Card;
