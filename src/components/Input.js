@@ -8,4 +8,5 @@ const Input = ({ handleChange, value, title, name, color }) => {
   );
 };
 
+
 export default Input;

@@ -30,4 +30,5 @@ const Nav = ({ handleInputChange, query }) => {
   );
 };
 
+
 export default Nav;
